@@ -1,4 +1,4 @@
-# SolanaFloor PRO
+# SolanaFloor
 
 ## Inspiration
 Got into crypto in 2017. Heard about NFT's in 2020, but didn't buy my first NFT until mid 2021. Which was a SMB NFT on Solana during the initial mint. Got really invested in the whole scene and joined the MonkeDAO discord soon after. The whole NFT scene is still so young and more so on Solana. I missed some valuable data to have better insights into NFTs on Solana, so I built SolanaFloor. I started building it early-mid September next to my day job. Most people were enthusiastic about it, so I'm slowly adding features and improving performance.
