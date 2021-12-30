@@ -19,7 +19,9 @@ And as SolanaFloor gained more publicity there were more visitors. And with so m
 Working on fetching on-chain transactions now. But since there is no standard we're working on parsing listings/delistings, bids and sales for each and every market out there.
 
 ## Accomplishments that I'm proud of
-Successfully querying the blockchain for the correct data and processing them into useful visualizations. The overall acceptance of the project in the community has been amazing and all the projects that want to get listed on my site. Even Anatoly talked about it, which I'm exceptionally proud of: https://twitter.com/aeyakovenko/status/1446883293194903552
+Successfully querying the blockchain for the correct data and processing them into useful visualizations. The overall acceptance of the project in the community has been amazing and all the projects that want to get listed on my site. Even Anatoly talked about it: https://twitter.com/aeyakovenko/status/1446883293194903552
+
+SolanaFloor is also the official Bonfida data analytics platform which I'm very proud of: https://bonfida.medium.com/solanafloor-now-has-an-analytics-dashboard-for-solana-name-service-9baef31d427d
 
 Also the Shi Guardians NFT collection I've launched to get access to SolanaFloor Pro.
 
@@ -44,3 +46,4 @@ Keep adding features and other NFT projects. Features like improved portfolio tr
 * Information about PRO: Website: https://solanafloor.com/pro
 * Twitter: https://twitter.com/SolanaFloor & https://twitter.com/cryptowazza
 * Shi Guardians NFT: https://shi-guardians.solanafloor.com
+* Official .SOL analytics: https://solanafloor.com/domains
