@@ -45,5 +45,6 @@ Keep adding features and other NFT projects. Features like improved portfolio tr
 * Website: https://solanafloor.com
 * Information about PRO: Website: https://solanafloor.com/pro
 * Twitter: https://twitter.com/SolanaFloor & https://twitter.com/cryptowazza
+* Discord: https://discord.gg/jqr8TnqqxT
 * Shi Guardians NFT: https://shi-guardians.solanafloor.com
 * Official .SOL analytics: https://solanafloor.com/domains
